@@ -1,5 +1,5 @@
 {
-    "name": "sixlive/json-schema-assertions",
+    "name": "davi-mo/json-schema-assertions",
     "description": "JSON Schema assertions",
     "keywords": [
         "sixlive",
@@ -7,7 +7,7 @@
         "json",
         "schema"
     ],
-    "homepage": "https://github.com/sixlive/json-schema-assertions",
+    "homepage": "https://github.com/davi-mo/json-schema-assertions",
     "license": "MIT",
     "authors": [
         {
